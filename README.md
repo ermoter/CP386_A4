@@ -1,35 +1,35 @@
 # CP386_A4
 CP386_A4 - Operating Systems Assignment 4 
 
-Motivation
+#Motivation
 The motivation of this assignment was to gain more practical experience working with operating system concepts such as threads and file io.
 
-Installation
+#Installation
 1. Download repository
 2. Make sure you're on a linux based system, this will not run on windows.
 3. run command : mv makefile.mk makefile in order to create makefile
 4. run "make" . this should compile without any errors.
 5. run command "./Assignment_4 x x x x" , where x x x x are maximum resources
 
-Features
+#Features
 This program has the ability to allocate resources, deallocate resources, run the sequence, and to print resource status.
 
-Commands are as follows:
+#Commands are as follows:
 RQ - allocate resources
 RL - deallocate resources 
 Run - run sequence
 * - print resource status
 Exit - exit program
 
-Authors
+#Authors
 
 Eric Tran 
 
-Credits
+#Credits
 
 Eric Tran
 
-License 
+#License 
 
 Copyright (c) 2020 Eric Tran
 
