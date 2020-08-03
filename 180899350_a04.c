@@ -120,6 +120,12 @@ int determineRQ(int i[4]){ // take in 4 integers
 	return 1;
 }
 
+int determineRL(int i[4]){
+
+
+	return !determineRQ(&i[4]);
+}
+
 
 int main(int argc, char *argv[])
 {
@@ -166,7 +172,13 @@ int main(int argc, char *argv[])
 			
 		}
 		else if (RL != NULL){
-			printf("Request is satisfied\n");
+
+			if(determineRL(cust[0].item) != -1){
+				printf("Request is satisfied\n");
+			}
+			else{
+				printf("Request is not satisfied\n");
+			}
 		}
 
 		else if (Exit != NULL){
