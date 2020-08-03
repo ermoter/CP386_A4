@@ -15,11 +15,12 @@ The motivation of this assignment was to gain more practical experience working 
 This program has the ability to allocate resources, deallocate resources, run the sequence, and to print resource status.
 
 ## Commands are as follows:
-RQ - allocate resources
-RL - deallocate resources 
-Run - run sequence
-* - print resource status
-Exit - exit program
+
+1. RQ - allocate resources
+2. RL - deallocate resources 
+3. Run - run sequence
+4. "*" - print resource status
+5. Exit - exit program
 
 ## Authors
 
