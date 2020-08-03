@@ -22,6 +22,10 @@ This program has the ability to allocate resources, deallocate resources, run th
 4. "*" - print resource status
 5. Exit - exit program
 
+## Screenshots
+![S](/1.png)
+![S](/2.png)
+
 ## Authors
 
 Eric Tran 
