@@ -2,7 +2,7 @@
 CP386_A4 - Operating Systems Assignment 4 
 
 ## Motivation
-The motivation of this assignment was to gain more practical experience working with operating system concepts such as threads and file io.
+The motivation of this assignment was to gain more practical experience working with operating system concepts such as threads and file io, and to implement bankers algorithm.
 
 ## Installation
 1. Download repository
